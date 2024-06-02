@@ -19,4 +19,4 @@ This is a simple calculator web application built with HTML, CSS, and JavaScript
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/chetankumarpulipati/calculator-js.git
