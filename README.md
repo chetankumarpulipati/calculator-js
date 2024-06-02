@@ -20,3 +20,5 @@ This is a simple calculator web application built with HTML, CSS, and JavaScript
 
    ```bash
    git clone https://github.com/chetankumarpulipati/calculator-js.git
+
+2. Run calculator.html in live server in VS Code
